@@ -1,4 +1,4 @@
-# Bowling Game Kata
+# Doing TDD Well: Bowling Game Kata
 
 ## Your Task
 

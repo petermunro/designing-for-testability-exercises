@@ -6,7 +6,22 @@ In these exercises, work in pairs. See why [below](#appendix-pair-programming).
 
 When pair programming, one person writes the code. The other navigates and reviews, with a conversation between the two. Switch roles occasionally.
 
-1. TODO: add refactoring exercises.
+
+### Refactor the Tax Calculator
+
+Earlier you looked at `federal-tax/fedtax.js`.
+
+1. In your `tax-calculator` project, create a `src` folder and
+   copy in the fedtax.js file.
+2. Initialize a git repository and check-in the initial version.
+3. Adding tests is likely to help your refactoring effort. Which
+   tests make sense to add? (See the official tax
+   [documentation](https://www.irs.gov/pub/irs-prior/p15--2015.pdf)
+   if necessary).
+4. Apply your refactorings one at a time, checking in your code at
+   each stage.
+
+
 
 ---
 

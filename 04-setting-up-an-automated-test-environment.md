@@ -2,14 +2,14 @@
 
 ## Installing Jest
 
-1.  Make sure you have a have [node](https://nodejs.org/en/download/) installed first. To do this, open a terminal or command prompt and check that you can run:
+1.  Make sure you have [node](https://nodejs.org/en/download/) installed first. To do this, open a terminal or command prompt and check that you can run:
 
         npm -v
 
 2.  Create a project directory and go into it:
 
-        $ mkdir my-project
-        $ cd my-project
+        $ mkdir tax-calculator
+        $ cd tax-calculator
 
 3.  Initialise your project's `package.json` file:
 
